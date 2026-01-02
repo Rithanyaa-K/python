@@ -1,0 +1,2 @@
+lis = list()
+print(lis)
